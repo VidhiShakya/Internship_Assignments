@@ -1,6 +1,6 @@
 # to swap two numbers
 
-num1= int(input("Enter a numer: "))
+num1= int(input("Enter a number: "))
 num2 = int(input("Enter another number: "))
 
 print(f"Before swaping: {num1} , {num2}")
