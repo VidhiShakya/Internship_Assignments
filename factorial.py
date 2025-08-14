@@ -1,4 +1,4 @@
-#  factorial of a number
+#  factorial of a number 
 
 num= int(input("Enter the number: "))
 
