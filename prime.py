@@ -1,7 +1,5 @@
 
-
-# num= int(input("Enter the number: "))
-
+# Function for prime number
 
 def prime(n):
 
